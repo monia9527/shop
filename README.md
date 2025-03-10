@@ -1,6 +1,6 @@
 ## Shop | E-Commerce Website
 
-Welcome to **Shop**, a modern and minimalistic e-commerce website built with **React, TailwindCSS, and Framer Motion**. This project demonstrates a clean UI, smooth animations, and an interactive shopping experience.
+Welcome to **Shop**, a modern and minimalistic e-commerce website built with **React, TailwindCSS**. This project demonstrates a clean UI, smooth animations.
 
 ##  Screenshot
 Here’s a preview of the project:
@@ -13,12 +13,10 @@ Here’s a preview of the project:
 -  **Interactive Shopping Experience** — Smooth UI with engaging animations.
 -  **Modern Design** — Built with TailwindCSS for a sleek and responsive layout.
 -  **Product Listings** — Display products dynamically.
--  **Framer Motion Animations** — Seamless motion effects for better UX.
 
 ##  Tech Stack
-- **Frontend**: React, TailwindCSS, Framer Motion
+- **Frontend**: React, TailwindCSS
 - **State Management**: React Hooks (useState, useEffect)
-- **Routing**: React Router
 - **Deployment**: Vercel
 
 ## Installation & Setup
