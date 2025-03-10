@@ -13,9 +13,7 @@ Here’s a preview of the project:
 -  **Interactive Shopping Experience** — Smooth UI with engaging animations.
 -  **Modern Design** — Built with TailwindCSS for a sleek and responsive layout.
 -  **Product Listings** — Display products dynamically.
--  **Add to Cart Functionality** — Users can add and remove items from the cart.
 -  **Framer Motion Animations** — Seamless motion effects for better UX.
--  **Multi-Page Navigation** — Powered by React Router.
 
 ##  Tech Stack
 - **Frontend**: React, TailwindCSS, Framer Motion
