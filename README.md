@@ -1,4 +1,4 @@
- 🛒 Shop | E-Commerce Website
+## Shop | E-Commerce Website
 
 Welcome to **Shop**, a modern and minimalistic e-commerce website built with **React, TailwindCSS, and Framer Motion**. This project demonstrates a clean UI, smooth animations, and an interactive shopping experience.
 
